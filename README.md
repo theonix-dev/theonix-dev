@@ -8,73 +8,74 @@
 
 </div>
 
----
+### 👋 About
 
-### 👋 About Me
+CS student and Linux enthusiast with non-commercial backend experience, now specializing in **DevSecOps** — wiring SAST/DAST scanning into CI/CD, building things that don't fall over once they're running.
 
-I'm a **CS student, programmer, and Linux enthusiast** with non-commercial backend development experience. Right now I'm focused on **DevSecOps** — I like building things, and I like making sure they don't fall over (or get breached) once they're running.
-
-- 🛡️ Specializing in **DevSecOps**, coming from a backend background
 - 🐹 Currently learning **Go**
-- 🐧 Living day-to-day in **Linux + Bash**
-- 🔍 Comfortable wiring **SAST/DAST** scanning into CI/CD pipelines
-- 🎯 Actively looking for an **internship**
+- 🎯 Actively looking for a **DevSecOps internship**
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages**
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,c,go,linux,bash,docker,githubactions&theme=dark" />
 
-**Systems & Infrastructure**
+`SAST` · `DAST` · `CI/CD Security`
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-
-**Security**
-
-<img src="https://img.shields.io/badge/SAST-D64545?style=for-the-badge&logo=semgrep&logoColor=white" />
-<img src="https://img.shields.io/badge/DAST-E8833A?style=for-the-badge&logo=owasp&logoColor=white" />
+</div>
 
 ---
 
 ### 📌 Featured Project
 
+<div align="center">
+
 <a href="https://github.com/theonix-dev/async-wrapper-devsecops-showcase">
 <img src="https://github-stats-extended.vercel.app/api/pin/?username=theonix-dev&repo=async-wrapper-devsecops-showcase&theme=tokyonight&hide_border=true" />
 </a>
 
-**[async-wrapper-devsecops-showcase](https://github.com/theonix-dev/async-wrapper-devsecops-showcase)** — a showcase of an async Python wrapper paired with the DevSecOps automation and security practices built around it:
+</div>
 
-- 🔐 Zero-trust ACL middleware + Role-Based Access Control (RBAC)
+**[async-wrapper-devsecops-showcase](https://github.com/theonix-dev/async-wrapper-devsecops-showcase)** — async Python wrapper with the DevSecOps automation built around it:
+
+- 🔐 Zero-trust ACL middleware + RBAC
 - 🐳 Multi-service Docker orchestration on an isolated bridge network
-- 📈 Prometheus metrics exporter + Sentry exception monitoring
+- 📈 Prometheus metrics + Sentry exception monitoring
 - ♻️ Redis caching with automatic local-file failover
-- 🔑 Secrets fully decoupled from code via typed `.env` configuration
+- 🔑 Secrets decoupled from code via typed `.env` configuration
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<img src="https://github-stats-extended.vercel.app/api?username=theonix-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=theonix-dev&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=theonix-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=theonix-dev&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=theonix-dev&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theonix-dev&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theonix-dev/theonix-dev/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/theonix-dev/theonix-dev/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/theonix-dev/theonix-dev/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
 
 ---
 
-### 🤝 Connect With Me
+<div align="center">
 
-<a href="https://github.com/theonix-dev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+💼 **Open to DevSecOps internship opportunities**
 
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=theonix-dev&style=flat&color=2c5364&label=profile+views" />
 
-<sub>💼 Open to DevSecOps internship opportunities — feel free to reach out!</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
